@@ -4,31 +4,31 @@ const features = [
   {
     title: 'Custom APIs for Merchants',
     description: 'Integrate and customize subscription flows tailored for your users. Control UI, UX, and data points collected before checkout.',
-    img: '../src/assets/image1.png',
+    img: 'https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/image1.png',
     reverse: false,
   },
   {
     title: 'Mobile-Compatible Checkout',
     description: 'No more wallet hassles. Our checkout works seamlessly across both desktop and mobile Web3 wallets.',
-    img: '../src/assets/image2.png',
+    img: 'https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/image2.png',
     reverse: true,
   },
   {
     title: 'Cross-chain Deposits & Withdrawals',
     description: 'Transact across Ethereum, Polygon, Arbitrum, and Optimism using USDT, USDC, DAI, and BUSD—powered by real-time liquidity routing.',
-    img: '../src/assets/image3.png',
+    img: 'https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/image3.png',
     reverse: false,
   },
   {
     title: 'Fully On-Chain and Secure',
     description: 'Smart contracts deployed from your wallet. All data and automations stored on-chain. No middlemen. No risks.',
-    img: '../src/assets/image4.png',
+    img: 'https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/image4.png',
     reverse: true,
   },
   {
     title: 'Real-time Control Over Token Allowances',
     description: 'Track and manage your subscriptions and token permissions in one place. Transparency meets total control.',
-    img: '../src/assets/image5.png',
+    img: 'https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/image5.png',
     reverse: false,
   },
 ];
