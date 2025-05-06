@@ -12,14 +12,14 @@ const Laptop = () => {
         {/* Laptop */}
         <div className="relative inline-block">
           <img
-            src="../src/assets/Laptop.png"
+            src="https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/Laptop.png"
             alt="Laptop"
             className="w-full max-w-96 lg:max-w-2xl h-auto lg:h-auto"
           />
 
           {/* Phone over Laptop */}
           <img
-            src="../src/assets/Phone.png"
+            src="https://raw.githubusercontent.com/himanshkumar6/autopay-finance/refs/heads/main/src/assets/Phone.png"
             alt="Phone on Laptop"
             className="absolute top-[20%] left-[271px] w-[6rem] lg:top-[10%] lg:left-[80%] lg:w-[30%] h-auto lg:h-auto"
           />
